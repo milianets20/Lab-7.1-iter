@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  TEST FOR ITER 7.1.cpp
+C:\Users\kama\OneDrive\Робочий стіл\test\Lab 7.1 iter.cpp\Lab 7.1 iter\Lab 7.1 iter.cpp(16,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+     Создается библиотека C:\Users\kama\OneDrive\Робочий стіл\test\Lab 7.1 iter.cpp\x64\Debug\TEST FOR ITER 7.1.lib и объект C:\Users\kama\OneDrive\Робочий стіл\test\Lab 7.1 iter.cpp\x64\Debug\TEST FOR ITER 7.1.exp
+  TEST FOR ITER 7.1.vcxproj -> C:\Users\kama\OneDrive\Робочий стіл\test\Lab 7.1 iter.cpp\x64\Debug\TEST FOR ITER 7.1.dll
